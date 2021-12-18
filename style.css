@@ -1,0 +1,29 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color: #6D14C4;
+border: 2px solid snow;
+color: pink;
+letter-spacing: 2px;
+font-style: italic;
+}
+
+button
+{
+    font-size: 22px;
+    width: 35%;
+    color: snow;
+    border: 2px solid snow;
+    border-radius: 25px;
+    letter-spacing: 3px;
+    font-style: italic;
+    background-color: #252324;
+}
